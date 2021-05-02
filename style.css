@@ -8,3 +8,6 @@
 .contacts li a.manchesterCity:hover {
   color: #6caddf;
 }
+.page {
+  border-color: white;
+}
