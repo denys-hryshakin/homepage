@@ -9,6 +9,12 @@
   color: #6caddf;
 }
 
+/* Body */
 main {
   background-image: url(./assets/images/mainBackground.jpg);
+}
+
+/* Avatar */
+.avatar {
+  border-radius: 50%;
 }
