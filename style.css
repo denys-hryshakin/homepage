@@ -8,3 +8,17 @@
 .contacts li a.manchesterCity:hover {
   color: #6caddf;
 }
+
+/* Body */
+main {
+  background-image: url(./assets/images/mainBackground.jpg);
+}
+
+/* Avatar */
+.avatar {
+  border-radius: 50%;
+}
+
+section > h3 {
+  margin: 15px 0 0 0;
+}
