@@ -18,3 +18,7 @@ main {
 .avatar {
   border-radius: 50%;
 }
+
+section > h3 {
+  margin: 15px 0 0 0;
+}
